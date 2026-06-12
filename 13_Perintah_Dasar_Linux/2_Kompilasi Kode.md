@@ -33,6 +33,4 @@ Windows dan Linux merupakan sistem operasi yang berfungsi mengatur perangkat ker
 
 ## Referensi
 
-1. https://id.wikipedia.org/wiki/Linux
-2. https://en.wikipedia.org/wiki/Microsoft_Windows
-3. https://en.wikipedia.org/wiki/Operating_system
+trust me bro
